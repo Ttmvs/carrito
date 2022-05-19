@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 8000,
+      "id": 1,
+      "title": "Sweater Azul",
+      "img": "img/chal_azul.jpg"
+    },
+    {
+      "precio": 8000,
+      "id": 2,
+      "title": "Sweater Gris",
+      "img": "img/chal_gris.jpg"
+    },
+    {
+      "precio": 20000,
+      "id": 3,
+      "title": "Botas",
+      "img": "img/botas_negras.jpg"
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "title": "Anillo",
+      "img": "img/anillo.jpg"
+    },
+    {
+      "precio": 6000,
+      "id": 5,
+      "title": "Cadena",
+      "img": "img/cadena.jpg"
+    },
+    {
+      "precio": 7000,
+      "id": 6,
+      "title": "Polera Rayada",
+      "img": "img/polera_rayada.jpg"
+    }
+  ]
